@@ -6,8 +6,6 @@
 //  Copyright (c) 2015 Cezary Wojcik. All rights reserved.
 //
 
-/* test fork */
-
 #import <UIKit/UIKit.h>
 
 /**
